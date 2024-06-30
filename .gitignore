@@ -1,0 +1,5 @@
+.envrc
+
+# jupyter checkpints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
